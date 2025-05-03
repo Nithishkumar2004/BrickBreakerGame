@@ -47,21 +47,21 @@
 ### 🟢 Initial State
 > Ball is ready, bricks are intact.
 
-![Initial State](screenshots/initial_state.png)
+![Initial State](screenshots/initial_state.jpg)
 
 ---
 
 ### 🏆 Winning State
 > All bricks broken — game won!
 
-![Winning State](screenshots/win_state.png)
+![Winning State](screenshots/win_state.jpg)
 
 ---
 
 ### ❌ Losing State
 > Ball missed the paddle — game over!
 
-![Losing State](screenshots/lose_state.png)
+![Losing State](screenshots/lose_state.jpg)
 
 ## 🛠️ How to Run
 
